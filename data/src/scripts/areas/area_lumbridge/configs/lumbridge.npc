@@ -128,7 +128,7 @@ moverestrict=indoors
 [hans]
 vislevel=hide
 name=Hans
-desc=Servant of the Duke of Lumbridge!
+desc=Servant of the 2004Scape.
 walkanim=human_walk_f,human_walk_b,human_walk_l,human_walk_r
 readyanim=human_ready
 op1=Talk-to
